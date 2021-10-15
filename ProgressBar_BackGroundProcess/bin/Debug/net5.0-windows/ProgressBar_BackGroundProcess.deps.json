@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProgressBar_BackGroundProcess/1.0.0": {
+        "runtime": {
+          "ProgressBar_BackGroundProcess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgressBar_BackGroundProcess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
